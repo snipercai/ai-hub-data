@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2024-04-17T10:00:00Z",
+  "changelog": "初始版本",
+  "repository": "https://github.com/snipercai/ai-hub-data",
+  "dataCount": {
+    "news": 2,
+    "tools": 2,
+    "prompts": 2,
+    "projects": 2,
+    "resources": 2,
+    "learningJournals": 3
+  }
+}
