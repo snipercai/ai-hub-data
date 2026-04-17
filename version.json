@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "updatedAt": "2024-04-17T10:00:00Z",
-  "changelog": "初始版本",
+  "version": "1.1.0",
+  "updatedAt": "2026-04-17T10:00:00Z",
+  "changelog": "新增 7 个高级提示词：并行工作管理器、多文件项目审计员、上下文记忆库、自适应问题导航器、错误发现者、长期项目助手、跨库连接器",
   "repository": "https://github.com/snipercai/ai-hub-data",
   "dataCount": {
     "news": 2,
     "tools": 2,
-    "prompts": 2,
+    "prompts": 9,
     "projects": 2,
     "resources": 2,
     "learningJournals": 3
